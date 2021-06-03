@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Mitroi</first_name>
+	<last_name>Valentin</last_name>
+	<phone_number>0768452977</phone_number>
+	<notes>Appointment at blue care vet</notes>
+</contact>
+<contact>
+	<first_name>Blue</first_name>
+	<last_name>Care Vet</last_name>
+	<phone_number>0745678543</phone_number>
+	<notes>vet</notes>
+</contact>
+<contact>
+	<first_name>Alexandu</first_name>
+	<last_name>Ion</last_name>
+	<phone_number>0765873456</phone_number>
+	<notes>Dentist</notes>
+</contact>
+</contacts>
